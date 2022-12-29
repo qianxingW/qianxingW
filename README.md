@@ -1,4 +1,4 @@
-## Hey 👋, This is Ruan
+## Hey 👋, This is QianXing
 
 [![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
 ## Some of my Github Stats
